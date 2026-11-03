@@ -1,0 +1,11 @@
+accelerate
+bitsandbytes
+datasets
+matplotlib
+numpy
+pandas
+peft
+sentence-transformers
+torch
+tqdm
+transformers
